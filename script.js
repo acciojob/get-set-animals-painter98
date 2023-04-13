@@ -20,8 +20,6 @@ class Cat extends Animal {
 	}
 }
 
-dog = new Dog('pomo');
-dog.makeSound();
 // Do not change the code below this line
 window.Animal = Animal;
 window.Dog = Dog;
